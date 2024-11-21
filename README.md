@@ -43,11 +43,11 @@
 <pre>
     .    .        .      .             . .     .        .          .          .
          .                 .                    .                .
-  .               A long time ago in a galaxy far, far away...
+  .             A long time ago in a galaxy far, far away...
                  
   .   .    .  .               .           .               .        .             .
          .            .                      .                  .               
 .                .                 .                .                  .
-                               coding I am                                          
+                            coding I am                                          
 </pre>
 </div>
