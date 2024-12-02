@@ -36,7 +36,7 @@
 
 <h2 align="center">💫 Jedi Archives 💫</h2>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mdhazar&theme=dark&background=000000&border=FFE81F&stroke=FFE81F&ring=FFE81F&fire=FFE81F&currStreakNum=FFE81F&sideNums=FFE81F&currStreakLabel=FFE81F&sideLabels=FFE81F&dates=FFE81F" alt="streak stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kappa-blond.vercel.app?user=mdhazar&theme=yellowdark&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
