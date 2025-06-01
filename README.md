@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=FFE81F&center=true&vCenter=true&width=800&lines=Hello+there!+👋;Derya,+my+name+is;Full+Stack+Developer+I+am;A+long+time+ago;in+a+galaxy+far,+far+away...." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=FFE81F&center=true&vCenter=true&width=850&height=50&lines=Hello+there!+%F0%9F%91%8BDerya+my+name+is;Full+Stack+Developer+I+am;A+long+time+ago+in+a+galaxy+far+far+away...." alt="Typing SVG" />
 </div>
 
 <h3 align="center">⭐️ A passionate developer from Ankara, training in the ways of the Code ⭐️</h3>
